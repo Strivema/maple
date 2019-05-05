@@ -1,0 +1,7 @@
+<PaySetting>
+    <appId>公众账号ID</appId>
+    <mchId>商户号</mchId>
+    <key>partnerkey是在商户后台配置的一个32位的key,微信商户平台-账户设置-安全设置-api安全</key>
+    <certPath></certPath>
+    <certPassword></certPassword>
+</PaySetting>
